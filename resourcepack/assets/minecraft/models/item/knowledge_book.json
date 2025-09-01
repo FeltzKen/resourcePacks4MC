@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/knowledge_book"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10004
+            },
+            "model": "item/custom/dragon_fang_dagger"
+        }
+    ]
+}

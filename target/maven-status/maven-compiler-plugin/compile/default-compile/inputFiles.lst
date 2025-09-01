@@ -1,0 +1,7 @@
+/home/dev/Projects/CustomItems4MC/src/main/java/com/customitems/items/CustomItemManager.java
+/home/dev/Projects/CustomItems4MC/src/main/java/com/customitems/commands/GiveItemCommand.java
+/home/dev/Projects/CustomItems4MC/src/main/java/com/customitems/listeners/PlayerDamageListener.java
+/home/dev/Projects/CustomItems4MC/src/main/java/com/customitems/listeners/PlayerInteractListener.java
+/home/dev/Projects/CustomItems4MC/src/main/java/com/customitems/listeners/ArmorEquipListener.java
+/home/dev/Projects/CustomItems4MC/src/main/java/com/customitems/CustomItemsPlugin.java
+/home/dev/Projects/CustomItems4MC/src/main/java/com/customitems/commands/CustomItemsCommand.java

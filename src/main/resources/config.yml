@@ -1,0 +1,36 @@
+# CustomItems4MC Configuration
+# This file allows you to customize the behavior of custom items
+
+# Enable/disable specific features
+features:
+  armor-set-bonuses: true
+  weapon-special-abilities: true
+  custom-enchantments: true
+  particle-effects: true
+
+# Cooldowns (in seconds)
+cooldowns:
+  mystic-sword-teleport: 10
+  shadow-blade-invisibility: 15
+  mystic-bow-enhanced-shot: 5
+
+# Damage multipliers
+damage:
+  mystic-sword-bonus: 3.0
+  shadow-blade-bonus: 2.0
+  flame-weapon-bonus: 4.0
+
+# Set bonus requirements
+set-bonuses:
+  mystic-set:
+    required-pieces: 4
+    effects:
+      - "invisibility-on-sneak"
+      - "magic-resistance"
+      - "enhanced-movement"
+
+# Drop rates for custom items (if implementing mob drops)
+drop-rates:
+  mystic-fragments: 0.05
+  shadow-essence: 0.03
+  flame-crystals: 0.04

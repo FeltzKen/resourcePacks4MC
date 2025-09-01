@@ -1,0 +1,8 @@
+com/customitems/listeners/ArmorEquipListener.class
+com/customitems/items/CustomItemManager.class
+com/customitems/commands/CustomItemsCommand.class
+com/customitems/CustomItemsPlugin.class
+com/customitems/commands/GiveItemCommand.class
+com/customitems/listeners/PlayerInteractListener.class
+com/customitems/listeners/ArmorEquipListener$1.class
+com/customitems/listeners/PlayerDamageListener.class

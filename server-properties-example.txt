@@ -1,0 +1,10 @@
+# Add these lines to your server.properties file:
+
+# Resource Pack Configuration
+resource-pack=http://yourserver.com/CustomItems4MC-ResourcePack.zip
+resource-pack-sha1=
+require-resource-pack=true
+resource-pack-prompt=Please install the CustomItems4MC resource pack to see custom items!
+
+# Optional: Kick players who decline
+# resource-pack-decline-action=kick

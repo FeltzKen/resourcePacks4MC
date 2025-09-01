@@ -1,0 +1,26 @@
+name: CustomItems4MC
+version: '1.0.0'
+main: com.customitems.CustomItemsPlugin
+api-version: 1.21
+author: Dev
+description: Custom armor sets and weapons with special abilities
+website: https://github.com/yourname/CustomItems4MC
+
+commands:
+  customitems:
+    description: Main command for custom items
+    aliases: [ci, citems]
+    usage: /<command> [help|give|list|giveall]
+    permission: customitems.use
+  giveitem:
+    description: Give a custom item to a player
+    usage: /<command> <player> <item>
+    permission: customitems.admin
+
+permissions:
+  customitems.admin:
+    description: Access to admin custom items commands (give to other players)
+    default: op
+  customitems.use:
+    description: Ability to use custom items commands (give to self, list items)
+    default: true

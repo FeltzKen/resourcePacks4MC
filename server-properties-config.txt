@@ -1,0 +1,10 @@
+# Add these lines to your /home/dev/paper-mc/server.properties
+
+# Resource Pack Auto-Download Configuration
+resource-pack=https://github.com/FeltzKen/resourcePacks4MC/raw/main/CustomItems4MC-ResourcePack.zip
+resource-pack-sha1=7b0c4ce86cb70392ae64ac83b9a559729045ff3c
+require-resource-pack=true
+resource-pack-prompt=Download CustomItems4MC resource pack to see legendary weapons and armor!
+
+# Optional: Uncomment to kick players who decline the resource pack
+# resource-pack-decline-action=kick
